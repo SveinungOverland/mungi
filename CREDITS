@@ -1,0 +1,101 @@
+Mungi Credits File
+
+This is a partial list of people that have contributed to the Mungi project.
+
+It is sorted alphabetically by last name. The fields are:
+
+N: Name
+E: email
+W: Web Address
+D: Description
+S: Snail-mail
+P: PGP key ID and fingerprint
+
+Maintained by: danielp@cse.unsw.edu.au
+----------------------
+
+N: Alan Au
+E: alanau@cisco.com
+D: L4 priority scheduler
+
+N: Andrew Baumann
+E: andrewb@cse.unsw.edu.au
+W: http://www.cse.unsw.edu.au/~andrewb/
+D: PDX/threads/APD speedups, merged MAC, misc fixes.
+
+N: Kingsley Cheung
+E: kingsley@aurema.com
+D: Resource management framework and protoptype for physical memory management
+
+N: Luke Deller
+E: luked@cse.unsw.edu.au
+
+N: Antony Edwards
+E: antonye@cse.unsw.edu.au
+D: Mandatory Access Control, misc fixes.
+
+N: John Ferlito
+E: johnf@inodes.org
+W: http://www.inodes.org/~johnf
+D: A debugger for the L4 Micro kernel.
+P: ID = 0x6AC0A484 FPR = 3513 F59C 1CA7 0E44 70C1  431E BA68 DB97 > 6AC0 A484
+
+N: Emmanuel Galanos
+E: egalanos@cse.unsw.edu.au
+D: Mungi-1.2 code clean up, re-write and implementation.
+
+N: Charles Gray
+E: cgray@cse.unsw.edu.au
+W: http://www.cse.unsw.edu.au/~cgray
+D: User-land naming and POSIX work.
+
+N: Gernot Heiser
+E: gernot@acm.org
+W: http://www.cse.unsw.edu.au/~gernot
+D: Project leader, overall design, API doc
+S: School of Computer Science & Engineering, UNSW Sydney 2052, Australia
+P: ID = 0x384265AD  FPR = 941E B828 25FD 7C94  2010 92E5 0BFF 398F
+
+N: Andrew Kisliakov
+E: aki01@alumni.cse.unsw.edu.au
+D: Device driver framework.
+S: 1A Bold St, Burwood NSW 2134 Australia
+
+N: Fondy Lam
+D: Disk space management model
+
+N: Ben Leslie
+E: benjl@cse.unsw.edu.au
+W: http://www.cse.unsw.edu.au/~benjl
+D: Various bug fixes.
+D: Device driver model.
+
+N: Brett Nash
+E: nash@nash.nu
+W: http://www.nash.nu/
+D: VM System and random internals.
+D: Persistence Framework.
+
+N: Victoria Ong
+E: vickyo@aurema.com
+D: Optimisation of L4/MIPS IPC path.
+
+N: Daniel Potts
+E: danielp@cse.unsw.edu.au
+W: http://www.cse.unsw.edu.au/~danielp
+D: Alpha port of Mungi-1.2.
+D: L4 V2 for Alpha development.
+
+N: Steve Russell
+E: smr@cse.unsw.edu.au
+D: Project co-initiator, overall design of first version
+
+N: Alex Sayle
+E: alexs@cse.unsw.edu.au
+W: http://www.cse.unsw.edu.au
+D: Libc port for mungi and mishell.
+P: finger print : 2AA2 3197 D4A0 2929 71E5  CE96 800B A1A4 3643 9CE4 
+
+N: Jerry Vochteloo
+E: jerry@vochteloo.org
+D: Original implementation

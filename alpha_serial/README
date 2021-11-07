@@ -1,0 +1,15 @@
+2002-01-07
+
+	Serial driver from L4Alpha-apps/serial moved here 
+	(alpha_serial) so we can implement reading from the
+	serial like MIPS. ceg
+
+
+
+	Basic serial driver.  Seems to work only on multia and miata
+(i.e. not ds20).  Patches would be appreciated.
+
+	(OK, so its pretty hacky ...)
+
+	Simon Winwood
+	27/03/2001

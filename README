@@ -1,0 +1,19 @@
+		Mungi v1.2 API release
+
+
+INSTALLATION:
+
+	1. Edit Makefile.conf to suit the local environment.
+	2. type
+		make
+	3. enjoy
+
+NOTES:
+	GNU make is needed to compile Mungi
+
+APPS:
+	To modify mungi to run your application when it starts edit the file
+subdir.mk in the apps/ directory.
+
+WARNING:
+	Dont expect to use Mungi for any real work.

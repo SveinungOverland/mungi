@@ -1,0 +1,137 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\noopsort}[1]{} \providecommand{\url}{\error{The bib files now
+  require the `url' package!}}
+\begin{thebibliography}{WMR{\etalchar{+}}95}
+
+\bibitem[APW86]{Anderson_PW_86}
+M.~Anderson, Ronald Pose, and Chris~S. Wallace.
+\newblock A password-capability system.
+\newblock {\em The Computer Journal}, 29:1--8, 1986.
+
+\bibitem[Ber80]{Berstis_80}
+Viktors Berstis.
+\newblock Security and protection in the {IBM} {System/38}.
+\newblock In {\em Proceedings of the 7th Symposium on Computer Architecture},
+  pages 245--250. ACM/IEEE, May 1980.
+
+\bibitem[CLBHL92]{Chase_LBL_92}
+Jeff~S. Chase, Hank~M. Levy, Miche Baker-Harvey, and Edward~D. Lazowska.
+\newblock Opal: A single address space system for 64-bit architectures.
+\newblock In {\em Proceedings of the 3rd Workshop on Workstation Operating
+  Systems}, pages 80--85, Key Biscayne, FL, USA, 1992. IEEE.
+
+\bibitem[CLFL94]{Chase_LFL_94}
+Jeffrey~S. Chase, Henry~M. Levy, Michael~J. Feeley, and Edward~D. Lazowska.
+\newblock Sharing and protection in a single-address-space operating system.
+\newblock {\em ACM Transactions on Computer Systems}, 12:271--307, 1994.
+
+\bibitem[DH99]{Deller_Heiser_99}
+Luke Deller and Gernot Heiser.
+\newblock Linking programs in a single address space.
+\newblock In {\em Proceedings of the 1999 USENIX Technical Conference}, pages
+  283--294, Monterey, Ca, USA, June 1999.
+
+\bibitem[ERHL96]{Elphinstone_RHL_96}
+Kevin Elphinstone, Stephen Russell, Gernot Heiser, and Jochen Liedtke.
+\newblock Supporting persistent object systems in a single address space.
+\newblock In {\em Proceedings of the 7th International Workshop on Persistent
+  Object Systems (POS)}, pages 111--119, Cape May, NJ, USA, May 1996. Morgan
+  Kaufmann.
+
+\bibitem[HERH93]{Heiser_ERH_93:tr}
+Gernot Heiser, Kevin Elphinstone, Stephen Russell, and Graham~R. Hellestrand.
+\newblock A distributed single address space system supporting persistence.
+\newblock Technical Report UNSW-CSE-TR-9302, University of NSW, University of
+  NSW, Sydney 2052, Australia, March 1993.
+
+\bibitem[HERV94]{Heiser_ERV_94}
+Gernot Heiser, Kevin Elphinstone, Stephen Russell, and Jerry Vochteloo.
+\newblock Mungi: A distributed single-address-space operating system.
+\newblock In {\em Proceedings of the 17th Australasian Computer Science
+  Conference (ACSC)}, pages 271--80, Christchurch, New Zealand, January 1994.
+
+\bibitem[HEV{\etalchar{+}}98]{Heiser_EVRL_98}
+Gernot Heiser, Kevin Elphinstone, Jerry Vochteloo, Stephen Russell, and Jochen
+  Liedtke.
+\newblock The {Mungi} single-address-space operating system.
+\newblock {\em Software: Practice and Experience}, 28(9):901--928, July 1998.
+
+\bibitem[HLR98]{Heiser_LR_98}
+Gernot Heiser, Fondy Lam, and Stephen Russell.
+\newblock Resource management in the {Mungi} single-address-space operating
+  system.
+\newblock In {\em Proceedings of the 21st Australasian Computer Science
+  Conference (ACSC)}, pages 417--428, Perth, Australia, February 1998.
+  Springer-Verlag.
+\newblock Also available as UNSW-CSE-TR-9705 from
+  \url{http://www.cse.unsw.edu.au/school/research/tr.html}.
+
+\bibitem[HSH81]{Houdek_SH_81}
+Merle~E. Houdek, Frank~G. Soltis, and Roy~L. Hoffman.
+\newblock {IBM} {System/38} support for capability-based addressing.
+\newblock In {\em Proceedings of the 8th Symposium on Computer Architecture},
+  pages 341--348. ACM/IEEE, May 1981.
+
+\bibitem[Lie95]{Liedtke_95}
+Jochen Liedtke.
+\newblock On {\(\mu\)}-kernel construction.
+\newblock In {\em Proceedings of the 15th ACM Symposium on OS Principles
+  (SOSP)}, pages 237--250, Copper Mountain, CO, USA, December 1995.
+
+\bibitem[RSE{\etalchar{+}}92]{Russell_SEHBGH_92}
+Stephen Russell, Alan Skea, Kevin Elphinstone, Gernot Heiser, Keith Burston,
+  Ian Gorton, and Graham Hellestrand.
+\newblock Distribution + persistence = global virtual memory.
+\newblock In {\em Proceedings of the 2nd IEEE International Workshop on Object
+  Orientation in Operating Systems (IWOOOS)}, pages 96--99, Dourdan, France,
+  September 1992.
+
+\bibitem[Sol96]{Soltis:as400}
+Frank~G. Soltis.
+\newblock {\em Inside the {AS/400}}.
+\newblock Duke Press, Loveland, CO, USA, 1996.
+
+\bibitem[VERH96]{Vochteloo_ERH_96}
+Jerry Vochteloo, Kevin Elphinstone, Stephen Russell, and Gernot Heiser.
+\newblock Protection domain extensions in {Mungi}.
+\newblock In {\em Proceedings of the 5th IEEE International Workshop on Object
+  Orientation in Operating Systems (IWOOOS)}, pages 161--165, Seattle, WA, USA,
+  October 1996.
+
+\bibitem[Voc98]{Vochteloo:phd}
+Jerry Vochteloo.
+\newblock {\em Design, Implementation and Performance of Protection in the
+  {Mungi} Single-Address-Space Operating System}.
+\newblock Phd thesis, School of Computer Science and Engineering, University of
+  NSW, Sydney 2052, Australia, July 1998.
+\newblock Available from \url{http://www.cse.unsw.edu.au/~disy/papers/}.
+
+\bibitem[VRH93]{Vochteloo_RH_93}
+Jerry Vochteloo, Stephen Russell, and Gernot Heiser.
+\newblock Capability-based protection in the {Mungi} operating system.
+\newblock In {\em Proceedings of the 3rd IEEE International Workshop on Object
+  Orientation in Operating Systems (IWOOOS)}, pages 108--15, Asheville, NC,
+  USA, December 1993.
+
+\bibitem[WM96]{Wilkinson_Murray_96}
+Tim Wilkinson and Kevin Murray.
+\newblock Evaluation of a distributed single address space operating system.
+\newblock In {\em Proceedings of the 16th IEEE International Conference on
+  Distributed Computing Systems (ICDCS)}, pages 494--501, Hong Kong, May 1996.
+  IEEE.
+
+\bibitem[WMR{\etalchar{+}}95]{Wilkinson_MRHL_95:tr}
+Tim Wilkinson, Kevin Murray, Stephen Russell, Gernot Heiser, and Jochen
+  Liedtke.
+\newblock Single address space operating systems.
+\newblock Technical Report UNSW-CSE-TR-9504, University of NSW, University of
+  NSW, Sydney 2052, Australia, November 1995.
+
+\bibitem[WSO{\etalchar{+}}92]{Wilkinson_SGWOSK_92}
+Tim Wilkinson, Tom Stiemerling, Peter~E. Osmon, Ashley Saulsbury, and Paul
+  Kelly.
+\newblock Angel: A proposed multiprocessor operating system kernel.
+\newblock In {\em European Workshop on Parallel Computing}, pages 316--319,
+  Barcelona, Spain, 1992.
+
+\end{thebibliography}
